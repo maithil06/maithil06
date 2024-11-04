@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maithil06](https://github.com/maithil06)
 
-- 💬 Ask me about **Physics and machine Learning**
+- 💬 Ask me about **Machine Learning & AI**
 
 - 📫 How to reach me **tandelmaithil@gmail.com**
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/balakrish181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="balakrish181" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/maithiltandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="balakrish181" height="30" width="40" /></a>
 <a href="https://www.instagram.com/maithil.tandel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puppy123py" height="30" width="40" /></a>
 </p>
 
