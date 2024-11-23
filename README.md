@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @maithil06
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on kaggle competitions
-- 📫 How to reach me : tandelmaithil@gmail.com
-
 <h1 align="center">Hi 👋, I'm  Maithil Tandel!!!</h1>
 <h3 align="center">Machine Learning & AI enthusiast</h3>
 
@@ -11,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently pursuing **Machine Learning in sciences**
+- 🌱 I’m currently graduated for University of Nottingham in **Machine Learning in sciences**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
