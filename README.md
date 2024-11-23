@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on kaggle competitions
 - 📫 How to reach me : tandelmaithil@gmail.com
 
-<h1 align="center">Hi 👋, I'm S Maithil Tandel!!!</h1>
+<h1 align="center">Hi 👋, I'm  Maithil Tandel!!!</h1>
 <h3 align="center">Machine Learning & AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balakrish181&label=Profile%20views&color=0e75b6&style=flat" alt="balakrish181" /> </p>
