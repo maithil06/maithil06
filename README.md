@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Maithil Tandel!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maithil06&label=Profile%20views&color=0e75b6&style=flat" alt="maithil06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maithil06" alt="maithil06" /></a> </p>
-
 I'm a **Machine Learning enthusiast** and a recent graduate from the **University of Nottingham** with a degree in **Machine Learning in Sciences**. Passionate about harnessing AI to solve real-world challenges, I'm eager to collaborate on innovative ML projects.
 
 🌱 **Currently Exploring**: Advanced machine learning techniques, deep learning, and their applications in scientific and interdisciplinary domains.  
