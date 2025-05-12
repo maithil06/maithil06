@@ -1,16 +1,26 @@
-Hi 👋 My name is Maithil Tandel
-===============================
+# 👋 Hi, I'm Maithil Tandel!
 
-Machine Learning Engineer and Data Scientist
---------------------------------------------
+I'm a **Machine Learning enthusiast** and a recent graduate from the **University of Nottingham** with a degree in **Machine Learning in Sciences**. Passionate about harnessing AI to solve real-world challenges, I'm eager to collaborate on innovative ML projects.
 
-I'm a Machine Learning enthusiast and a recent graduate from the University of Nottingham with a degree in Machine Learning in Sciences. Passionate about harnessing AI to solve real-world challenges, I'm eager to collaborate on innovative ML projects. 🌱 Currently Exploring: Advanced machine learning techniques, deep learning, and their applications in scientific and interdisciplinary domains. 💡 Fun Fact: I love transforming complex datasets into actionable insights! 
-<h2/>🚀 What I Do <h2>
-Develop and deploy Machine Learning models for diverse applications, from predictive analytics to computer vision. Experiment with deep learning frameworks like TensorFlow, PyTorch, and scikit-learn to build robust solutions. Preprocess and analyze large datasets to uncover patterns and ensure high-quality model inputs. Optimize model performance through hyperparameter tuning, feature engineering, and regularization techniques. Apply ML to scientific and interdisciplinary problems, bridging AI with domains like physics, biology, and chemistry. Contribute to open-source projects and share knowledge in AI and ML to foster community learning. 
-<h2/>🤝 Let's Collaborate! <h2/> 
-I'm excited to team up on Machine Learning projects. Whether it's research, model development, or creating AI-driven solutions, I'm all in! Reach out if you have a cool idea. 📫 Get in Touch 📧 Email: tandelmaithil@gmail.com 💬 Ask me about Machine Learning & AI—I’m always up for a chat! Thanks for visiting! Let's create something awesome together. 🚀
+🌱 **Currently Exploring**: Advanced machine learning techniques, deep learning, and their applications in scientific and interdisciplinary domains.  
+💡 **Fun Fact**: I love transforming complex datasets into actionable insights!
 
-### Skills
+## 🚀 What I Do
+- Develop and deploy **Machine Learning models** for diverse applications, from predictive analytics to computer vision.
+- Experiment with **deep learning frameworks** like TensorFlow, PyTorch, and scikit-learn to build robust solutions.
+- Preprocess and analyze **large datasets** to uncover patterns and ensure high-quality model inputs.
+- Optimize **model performance** through hyperparameter tuning, feature engineering, and regularization techniques.
+- Apply ML to **scientific and interdisciplinary problems**, bridging AI with domains like physics, biology, and chemistry.
+- Contribute to **open-source projects** and share knowledge in **AI and ML** to foster community learning.
+
+## 🤝 Let's Collaborate!
+I'm excited to team up on **Machine Learning projects**. Whether it's research, model development, or creating AI-driven solutions, I'm all in! Reach out if you have a cool idea.
+
+## 📫 Get in Touch
+- 📧 Email: [tandelmaithil@gmail.com](mailto:tandelmaithil@gmail.com)  
+- 💬 Ask me about **Machine Learning & AI**—I’m always up for a chat!  
+
+Thanks for visiting! Let's create something awesome together. 🚀
 
 
 <p align="left">
